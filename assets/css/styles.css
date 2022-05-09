@@ -3,7 +3,7 @@
 
 body {
     font-size: 18px;
-    font-family: Arimo, sans-serif;
+    font-family: Poppins, sans-serif;
     color: #1a1a1a;
     width: 100vw;
     height: 100vh;
@@ -33,7 +33,7 @@ body {
 
 .presentation-one{
     padding: 90px;
-    font-family: Nunito, sans-serif ;
+    font-family: Poppins, sans-serif ;
     color: #1a1a1a;
     }
 
@@ -86,7 +86,7 @@ body {
 .about p {
     font-size: 25px;
     padding-bottom: 20px;
-    font-family: Arimo, sans-serif;
+    font-family: Poppins, sans-serif;
     }
 
 .wrapper a{
@@ -101,7 +101,7 @@ body {
     text-align: center;
     transition: all .40s;
     border-radius: 15px;
-    font-family: Arimo, sans-serif;
+    font-family: Poppins, sans-serif;
     }
 
 .wrapper a span{
@@ -173,7 +173,7 @@ footer{
      margin-bottom: 70px;
      margin-top: 260px;
      color: #1a1a1a;
-     font-family: Arimo, sans-serif;
+     font-family: Poppins, sans-serif;
      }
 
 footer p{
