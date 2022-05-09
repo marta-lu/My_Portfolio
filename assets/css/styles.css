@@ -101,7 +101,7 @@ body {
     letter-spacing: 3px;
     text-align: center;
     transition: all .40s;
-    border-radius: 15px;
+    border-radius: 2px;
     font-family: Poppins, sans-serif;
     }
 
@@ -120,8 +120,8 @@ body {
     height: 37px;
     background: #FF8C00;
     transition: all .40s;
-    border-radius: 15px;
-    font-family: Arimo, sans-serif;
+    border-radius: 2px;
+    font-family: Poppins, sans-serif;
     }
 
 .wrapper a:hover{
